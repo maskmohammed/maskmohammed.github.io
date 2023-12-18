@@ -1,0 +1,72 @@
+body {
+    background-color: black;
+}
+h2 {
+    color: white;
+ 
+}
+p{
+    color: white;
+}
+h3{
+    color: white;
+    background-color: green;
+}
+hr{
+    color: white;
+}
+#name {
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 125%;
+    text-decoration: underline gray;
+}
+a{
+    text-decoration: none;
+    color: gray;
+}
+
+h4{
+    margin-left: 10px;
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.adiv {
+    margin-left: 50px;
+    background-color: rgb(44, 44, 44);
+    border: 1px solid white;
+    width: 400px;
+    height: 200px;
+}
+
+#one{
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.bdiv{
+    width: 1300px;
+    height: 500px;
+    border: 3px solid gray;
+}
+img,figcaption{
+    margin-left: 300px;
+    width: 600px;
+    height: 400px;
+    color: gray;
+    text-align: center;
+}
+h1{
+    color: white;
+}
+.cdiv{
+    margin-left: 100px;
+    width: 500px;
+    height: 500px;
+    border: 2px solid white;
+    background-color: gray;
+}
+
+    
